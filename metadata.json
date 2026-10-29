@@ -1,0 +1,6 @@
+{
+  "name": "NOĒSIS - IA Neuro-Symbolique & Conscience Artificielle",
+  "description": "Architecture cognitive neuro-symbolique intégrant l'Espace de Travail Global (GWT), la métacognition (HOT) et le calcul d'information intégrée (IIT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
